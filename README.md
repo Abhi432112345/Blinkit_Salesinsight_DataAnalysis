@@ -1,4 +1,4 @@
-# Blinkit_Salesinsight_DataAnalysis
+# Blinkit_Salesinsight_DataAnalysis (Excel)
 
 # ProfitPulse_Dashboard
 
