@@ -1,7 +1,5 @@
 # Blinkit_Salesinsight_Data_Analysis (Excel)
 
-# ProfitPulse_Dashboard
-
 ## Overview
 This project is an Excel-based dashboard analyzing sales data for Blinkit, showcasing key metrics like total sales (1.2B+), average sales (140.9k), item type distribution, outlet performance, and ratings (3.97 avg). Built as part of my journey from sales engineering to data analytics, it reflects my passion for decoding how businesses drive profits.
 
